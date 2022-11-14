@@ -2,10 +2,10 @@
 
 I am Abdel illah Belaoudj, currently working as a Software Engineer at the [Enosis Solutions](https://www.enosisbd.com/). I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelillahbel/)](https://www.linkedin.com/in/abdelillahbel/)
-[![Medium Badge](https://img.shields.io/badge/rashedul-alam-12100E?style=flat-square&logo=medium&logoColor=white&link=https://abdelillahbel-alam.medium.com/)](https://abdelillahbel-alam.medium.com/)
-[![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdelillahbel@proton.me.com)](mailto:abdelillahbel@proton.me)
-[![Facebook Badge](https://img.shields.io/badge/rashedul.alam.anik.2-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/abdelillah1bel/)](https://www.facebook.com/abdelillah1bel/)
+[![Linkedin Badge](https://img.shields.io/badge/-abdelillahbel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelillahbel/)](https://www.linkedin.com/in/abdelillahbel/)
+[![Medium Badge](https://img.shields.io/badge/abdelillah-bel-12100E?style=flat-square&logo=medium&logoColor=white&link=https://abdelillahbel.medium.com/)](https://abdelillah-bel.medium.com/)
+[![Gmail Badge](https://img.shields.io/badge/-abdelillahbel@proton.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdelillahbel@proton.me.com)](mailto:abdelillahbel@proton.me)
+[![Facebook Badge](https://img.shields.io/badge/abdelillahbel-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/abdelillah1bel/)](https://www.facebook.com/abdelillah1bel/)
 
 
 ## ⚡ Technologies
