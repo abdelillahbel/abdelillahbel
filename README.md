@@ -1,5 +1,8 @@
 <img src="https://i.imgur.com/cMWdwMe.png" width="100%" height="auto"/>
 
+<h1 align="center">Hi 👋, I'm Abdel Illah Belaoudj</h1>
+<h3 align="center">A Passionate Developer</h3>
+
 # 💫 About Me:
 🔭 I’m currently working on Software development.<br>👯 I’m looking to collaborate on innovative and challenging software development projects that can expand my skill set and knowledge.<br>🤝 I’m looking for help with advanced topics in machine learning and data science.<br>🌱 I’m currently learning Computer science and programming, particularly in the areas of software engineering, app development, and cloud computing.<br>💬 Ask me about software development best practices, popular programming languages, and emerging technologies in the tech industry.<br>⚡ Fun fact: I love coding in my free time, and I find it to be a great stress reliever.
 
