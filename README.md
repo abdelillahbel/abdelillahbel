@@ -1,3 +1,5 @@
+<img href='https://camo.githubusercontent.com/66ba1e15fed3d4d24bda65c389e45010698eb49fdb22d632136c3e5087e4fd44/68747470733a2f2f692e696d6775722e636f6d2f634d5764774d652e706e67'></img>
+
 # 💫 About Me:
 🔭 I’m currently working on Software development.<br>👯 I’m looking to collaborate on innovative and challenging software development projects that can expand my skill set and knowledge.<br>🤝 I’m looking for help with advanced topics in machine learning and data science.<br>🌱 I’m currently learning Computer science and programming, particularly in the areas of software engineering, app development, and cloud computing.<br>💬 Ask me about software development best practices, popular programming languages, and emerging technologies in the tech industry.<br>⚡ Fun fact: I love coding in my free time, and I find it to be a great stress reliever.
 
