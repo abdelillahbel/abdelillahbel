@@ -1,0 +1,2 @@
+// c lang
+printf("Hi");
