@@ -1,29 +1,33 @@
-<img src="https://i.imgur.com/cMWdwMe.png" width="100%" height="auto"/>
+## Languages 
+[![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)](https://github.com/adblanc?tab=repositories&language=c%2b%2b)
+[![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)](https://github.com/adblanc?tab=repositories&language=c%2b%2b)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-fff?&logo=kotlin&logoColor=0095D5)](https://github.com/adblanc?tab=repositories&language=kotlin)
+[![Swift](https://img.shields.io/badge/-Swift-fff?&logo=swift&logoColor=FA7343)](https://github.com/adblanc?tab=repositories&language=swift)
+[![Python](https://img.shields.io/badge/-Python-fff?&logo=python&logoColor=3776AB)](https://github.com/adblanc?tab=repositories&language=python)
+[![C#](https://img.shields.io/badge/-C%23-fff?&logo=c-sharp&logoColor=239120)](https://github.com/adblanc?tab=repositories&language=csharp)
+[![ASP.NET](https://img.shields.io/badge/-ASP.NET-fff?&logo=.net&logoColor=512BD4)](https://github.com/adblanc?tab=repositories&language=aspnet)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=javascript&logoColor=F7DF1E)](https://github.com/adblanc?tab=repositories&language=javascript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=typescript&logoColor=007ACC)](https://github.com/adblanc?tab=repositories&language=typescript)
+[![Scala](https://img.shields.io/badge/-Scala-fff?&logo=scala&logoColor=DC322F)](https://github.com/adblanc?tab=repositories&language=scala)
+[![CSS](https://img.shields.io/badge/-CSS-fff?&logo=css3&logoColor=1572B6)](https://github.com/adblanc?tab=repositories&language=css)
+[![Bash](https://img.shields.io/badge/-Bash-fff?&logo=gnu-bash&logoColor=4EAA25)](https://github.com/adblanc?tab=repositories&language=bash)
 
-<h1 align="center">Hi 👋, I'm Abdel Illah Belaoudj</h1>
-<h3 align="center">A Passionate Developer</h3>
-
-# 💫 About Me:
-🔭 I’m currently working on Software development.<br>👯 I’m looking to collaborate on innovative and challenging software development projects that can expand my skill set and knowledge.<br>🤝 I’m looking for help with advanced topics in machine learning and data science.<br>🌱 I’m currently learning Computer science and programming, particularly in the areas of software engineering, app development, and cloud computing.<br>💬 Ask me about software development best practices, popular programming languages, and emerging technologies in the tech industry.<br>⚡ Fun fact: I love coding in my free time, and I find it to be a great stress reliever.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdelillah_bel_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelillahbel) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abdelillah_bel_) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat-square&logo=android&logoColor=%a4c639) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=flat-square&logo=Apache%20Ant&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat-square&logo=apache-cassandra&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat-square&logo=inkscape&logoColor=080A13) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat-square&logo=cmake&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelillahbel&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-[![abdelillahbel's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=abdelillahbel&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![abdelillahbel's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=abdelillahbel&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=abdelillah_bel_)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=abdelillahbel&icon=0&color=12)](https://visitcount.itsvg.in)
-
+## Technologies 
+[![Apache](https://img.shields.io/badge/-Apache-fff?&logo=apache)](https://www.apache.org/)
+[![Gradle](https://img.shields.io/badge/-Gradle-fff?&logo=gradle&logoColor=02303A)](https://gradle.org/)
+[![Maven](https://img.shields.io/badge/-Maven-fff?&logo=apache-maven&logoColor=C71A36)](https://maven.apache.org/)
+[![WinForms](https://img.shields.io/badge/-WinForms-fff?&logo=microsoft)](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=net-6.0)
+[![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)](https://nodejs.org/en/)
+[![.NET](https://img.shields.io/badge/-.NET-fff?&logo=.net&logoColor=512BD4)](https://dotnet.microsoft.com/)
+[![React.js](https://img.shields.io/badge/-React.js-fff?&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![React Native](https://img.shields.io/badge/-React_Native-fff?&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+[![Git](https://img.shields.io/badge/-Git-fff?&logo=git&logoColor=F05032)](https://git-scm.com/)
+[![JavaFX](https://img.shields.io/badge/-JavaFX-fff?&logo=java&logoColor=007396)](https://openjfx.io/)
+[![Spring](https://img.shields.io/badge/-Spring-fff?&logo=spring&logoColor=6DB33F)](https://spring.io/)
+[![Hibernate](https://img.shields.io/badge/-Hibernate-fff?&logo=hibernate&logoColor=59666C)](https://hibernate.org/)
+[![Java Servlet](https://img.shields.io/badge/-Java_Servlet-fff?&logo=java&logoColor=007396)](https://javaee.github.io/servlet-spec/)
+[![JUnit](https://img.shields.io/badge/-JUnit-fff?&logo=junit5&logoColor=25A162)](https://junit.org/junit5/)
+[![WPF](https://img.shields.io/badge/-WPF-fff?&logo=.net&logoColor=512BD4)](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/?view=net-6.0)
+[![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET_MVC-fff?&logo=.net&logoColor=512BD4)](https://dotnet.microsoft.com/apps/aspnet/mvc)
+[![Entity Framework](https://img.shields.io/badge/-Entity_Framework-fff?&logo=.net&logoColor=512BD4)](https://docs.microsoft.com/en-us/ef/)
+[![NUnit](https://img.shields.io/badge/-NUnit-fff?&logo=nunit&logoColor=512BD4)](https://nunit.org/)
