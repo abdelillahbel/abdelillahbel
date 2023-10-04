@@ -2,7 +2,7 @@
 [![About Developer](https://img.shields.io/badge/IT%20Student-%E2%9D%A4-green.svg)](https://github.com/abdelillahbel)
 [![GDeveloperSC](https://img.shields.io/badge/GDSC%20ENSB%20%20Core%20Team%20Member-%E2%9D%A4-blue.svg)](https://gdsc.community.dev/national-school-of-biotechnology)
 
-<a href="https://www.buymeacoffee.com/abdelillahbel" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://www.buymeacoffee.com/abdelillahbel"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=abdelillahbel&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 ## Languages 
 [![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)](https://github.com/abdelillahbel?tab=repositories&language=c%2b%2b)
