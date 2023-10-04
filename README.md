@@ -1,8 +1,30 @@
-[![Open Source Developer](https://img.shields.io/badge/Open%20Source%20Developer-%E2%9D%A4-red.svg)](https://github.com/abdelillahbel)
-[![About Developer](https://img.shields.io/badge/IT%20Student-%E2%9D%A4-green.svg)](https://github.com/abdelillahbel)
-[![GDeveloperSC](https://img.shields.io/badge/GDSC%20ENSB%20%20Core%20Team%20Member-%E2%9D%A4-blue.svg)](https://gdsc.community.dev/national-school-of-biotechnology)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/abdelillahbel">
+        <img src="https://img.shields.io/badge/Open%20Source%20Developer-%E2%9D%A4-red.svg" alt="Open Source Developer">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/abdelillahbel">
+        <img src="https://img.shields.io/badge/IT%20Student-%E2%9D%A4-green.svg" alt="IT Student">
+      </a>
+    </td>
+    <td>
+      <a href="https://gdsc.community.dev/national-school-of-biotechnology">
+        <img src="https://img.shields.io/badge/GDSC%20ENSB%20Core%20Team%20Member-%E2%9D%A4-blue.svg" alt="GDSC Core Team Member">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <a href="https://www.buymeacoffee.com/abdelillahbel" target="_blank">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important; width: 217px !important;">
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://www.buymeacoffee.com/abdelillahbel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## Languages 
 [![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)](https://github.com/abdelillahbel?tab=repositories&language=c%2b%2b)
