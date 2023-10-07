@@ -1,30 +1,9 @@
 <div align="center">
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/abdelillahbel">
-        <img src="https://img.shields.io/badge/Open%20Source%20Developer-%E2%9D%A4-red.svg" alt="Open Source Developer">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/abdelillahbel">
-        <img src="https://img.shields.io/badge/IT%20Student-%E2%9D%A4-green.svg" alt="IT Student">
-      </a>
-    </td>
-    <td>
-      <a href="https://gdsc.community.dev/national-school-of-biotechnology">
-        <img src="https://img.shields.io/badge/GDSC%20ENSB%20Core%20Team%20Member-%E2%9D%A4-blue.svg" alt="GDSC Core Team Member">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center">
-      <a href="https://www.buymeacoffee.com/abdelillahbel" target="_blank">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important; width: 217px !important;">
-      </a>
-    </td>
-  </tr>
-</table>
+[![Open Source Developer](https://img.shields.io/badge/Open%20Source%20Developer-%E2%9D%A4-red.svg)](https://github.com/abdelillahbel)
+[![IT Student](https://img.shields.io/badge/IT%20Student-%E2%9D%A4-green.svg)](https://github.com/abdelillahbel)
+[![Most Active GitHub User](https://img.shields.io/badge/Most%20Active%20GitHub%20User%20in%20Algeria%20Rank-2nd-white.svg)](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/algeria.md)
+[![GDSC Core Team Member](https://img.shields.io/badge/GDSC%20ENSB%20Core%20Team%20Member-%E2%9D%A4-blue.svg)](https://gdsc.community.dev/national-school-of-biotechnology)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O1PWVI3)
 </div><br>
 
 ## Languages 
