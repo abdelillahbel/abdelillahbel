@@ -35,7 +35,7 @@ all posts <a href="#">#abdelillahbel</a> ,all views my own.
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O1PWVI3) -->
 
 
-## Languages 
+# Languages 
 [![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)](https://github.com/abdelillahbel?tab=repositories&language=c%2b%2b)
 [![Java](https://img.shields.io/badge/-Java-fff?&logo=java&logoColor=007396)](https://github.com/abdelillahbel?tab=repositories&language=java)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-fff?&logo=kotlin&logoColor=0095D5)](https://github.com/abdelillahbel?tab=repositories&language=kotlin)
@@ -51,7 +51,7 @@ all posts <a href="#">#abdelillahbel</a> ,all views my own.
 [![Ruby](https://img.shields.io/badge/-Ruby-fff?&logo=ruby&logoColor=CC342D)](https://www.ruby-lang.org/)
 
 
-## Technologies 
+# Technologies 
 [![Apache](https://img.shields.io/badge/-Apache-fff?&logo=apache)](https://www.apache.org/)
 [![Gradle](https://img.shields.io/badge/-Gradle-fff?&logo=gradle&logoColor=02303A)](https://gradle.org/)
 [![Maven](https://img.shields.io/badge/-Maven-fff?&logo=apache-maven&logoColor=C71A36)](https://maven.apache.org/)
