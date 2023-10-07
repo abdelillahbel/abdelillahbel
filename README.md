@@ -1,3 +1,4 @@
+<div align="center">
 <table>
   <tr>
     <td>
@@ -24,7 +25,7 @@
     </td>
   </tr>
 </table>
-
+</div><br>
 
 ## Languages 
 [![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)](https://github.com/abdelillahbel?tab=repositories&language=c%2b%2b)
