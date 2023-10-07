@@ -3,8 +3,7 @@
 
 all posts <a href="#">#abdelillahbel</a> ,all views my own.
 
-
-
+<br>
 <div align="center">
   <a href="https://github.com/abdelillahbel">
     <img src="https://img.shields.io/badge/Open%20Source%20Developer-%E2%9D%A4-red.svg" alt="Open Source Developer">
