@@ -1,3 +1,8 @@
+# About Me
+* I am a freelancer mobile apps & web developer, software engineer, cybersecurity and Data Analyzer since 2018. I IT Student in institute speciality Multi-Platform Apps Developer in Algeria. When I'm not busy working on projects for clients, I like to build free open-source or paid software applications and websites as well as help other programmers or teams solve coding issues they may have. My favorite thing to do is create algorithms and complicated codes that can be used to build new exciting things for computers! In my spare time, you'll often find me sipping coffee, watching movies, and enjoying some delicious as I unwind after long coding sessions.
+
+all posts <a href="#">#abdelillahbel</a> ,all views my own.
+
 <div align="center">
   <a href="https://github.com/abdelillahbel">
     <img src="https://img.shields.io/badge/Open%20Source%20Developer-%E2%9D%A4-red.svg" alt="Open Source Developer">
