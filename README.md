@@ -58,7 +58,7 @@ all posts <a href="#">#abdelillahbel</a> ,all views my own.
 
 # Languages 
 [![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)](https://github.com/abdelillahbel?tab=repositories&language=c%2b%2b)
-[![Dart](https://img.shields.io/badge/-Dart-fff?&logo=c%2b%2b&logoColor=00599C)](https://github.com/abdelillahbel?tab=repositories&language=c%2b%2b)
+[![Dart](https://img.shields.io/badge/-Dart-fff?&logo=dart&logoColor=00599C)](https://github.com/abdelillahbel?tab=repositories&language=Dart)
 [![Java](https://img.shields.io/badge/-Java-fff?&logo=java&logoColor=007396)](https://github.com/abdelillahbel?tab=repositories&language=java)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-fff?&logo=kotlin&logoColor=0095D5)](https://github.com/abdelillahbel?tab=repositories&language=kotlin)
 [![Python](https://img.shields.io/badge/-Python-fff?&logo=python&logoColor=3776AB)](https://github.com/abdelillahbel?tab=repositories&language=python)
