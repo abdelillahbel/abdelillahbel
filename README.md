@@ -91,7 +91,7 @@ all posts <a href="#">#abdelillahbel</a> ,all views my own.
 [![Entity Framework](https://img.shields.io/badge/-Entity_Framework-fff?&logo=.net&logoColor=512BD4)](https://docs.microsoft.com/en-us/ef/)
 [![NUnit](https://img.shields.io/badge/-NUnit-fff?&logo=nunit&logoColor=512BD4)](https://nunit.org/)
 [![Android](https://img.shields.io/badge/-Android-fff?&logo=android&logoColor=3DDC84)](https://developer.android.com/)
-[![Android](https://img.shields.io/badge/-Flutter-fff?&logo=flutter&logoColor=3DDC84)](https://flutter.dev/)
+[![Flutter](https://img.shields.io/badge/-Flutter-fff?&logo=flutter&logoColor=0089D6)](https://flutter.dev/)
 [![iOS](https://img.shields.io/badge/-iOS-fff?&logo=ios&logoColor=000)](https://developer.apple.com/ios/)
 [![React Native](https://img.shields.io/badge/-React_Native-fff?&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
 [![Xamarin](https://img.shields.io/badge/-Xamarin-fff?&logo=xamarin&logoColor=3498DB)](https://dotnet.microsoft.com/apps/xamarin)
