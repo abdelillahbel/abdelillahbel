@@ -1,10 +1,10 @@
-# About Me
+<!-- # About Me
 * I am a freelancer mobile apps & web developer, software engineer, cybersecurity and Data Analyzer since 2018. I am IT Student in institute speciality Multi-Platform Apps Developer in Algeria. When I'm not busy working on projects for clients, I like to build free open-source or paid software applications and websites as well as help other programmers or teams solve coding issues they may have. My favorite thing to do is create algorithms and complicated codes that can be used to build new exciting things for computers! In my spare time, you'll often find me sipping coffee, watching movies, and enjoying some delicious as I unwind after long coding sessions.
 
-<!-- [![wakatime](https://wakatime.com/badge/user/49ad126d-4368-44b3-a584-bcebaf8b6ceb.svg)](https://wakatime.com/@49ad126d-4368-44b3-a584-bcebaf8b6ceb) 
+ [![wakatime](https://wakatime.com/badge/user/49ad126d-4368-44b3-a584-bcebaf8b6ceb.svg)](https://wakatime.com/@49ad126d-4368-44b3-a584-bcebaf8b6ceb) 
 
 all posts <a href="#">#abdelillahbel</a> ,all views my own. -->
-
+<!--
 <br>
 <div align="center">
   <a href="https://github.com/abdelillahbel">
@@ -50,13 +50,12 @@ all posts <a href="#">#abdelillahbel</a> ,all views my own. -->
 </p>
 <br>
 <br>
-
+-->
 <!--  [![Open Source Developer](https://img.shields.io/badge/Open%20Source%20Developer-%E2%9D%A4-red.svg)](https://github.com/abdelillahbel)
   [![IT Student](https://img.shields.io/badge/IT%20Student-%E2%9D%A4-green.svg)](https://github.com/abdelillahbel)
   [![Most Active GitHub User](https://img.shields.io/badge/Most%20Active%20GitHub%20User%20in%20Algeria%20Rank-2nd-white.svg)](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/algeria.md)
   [![GDSC Core Team Member](https://img.shields.io/badge/GDSC%20ENSB%20Core%20Team%20Member-%E2%9D%A4-blue.svg)](https://gdsc.community.dev/national-school-of-biotechnology)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O1PWVI3) -->
-
 
 # Languages 
 [![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)](https://github.com/abdelillahbel?tab=repositories&language=c%2b%2b)
