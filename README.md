@@ -74,8 +74,6 @@ all posts <a href="#">#abdelillahbel</a> ,all views my own. -->
 [![Scala](https://img.shields.io/badge/-Scala-fff?&logo=scala&logoColor=DC322F)](https://github.com/abdelillahbel?tab=repositories&language=scala)
 [![CSS](https://img.shields.io/badge/-CSS-fff?&logo=css3&logoColor=1572B6)](https://github.com/adblanc?tab=repositories&language=css)
 [![Bash](https://img.shields.io/badge/-Bash-fff?&logo=gnu-bash&logoColor=4EAA25)](https://github.com/abdelillahbel?tab=repositories&language=bash)
-[![Rust](https://img.shields.io/badge/-Rust-fff?&logo=rust&logoColor=000000)](https://www.rust-lang.org/)
-[![Ruby](https://img.shields.io/badge/-Ruby-fff?&logo=ruby&logoColor=CC342D)](https://www.ruby-lang.org/)
 
 
 # Technologies 
@@ -85,8 +83,6 @@ all posts <a href="#">#abdelillahbel</a> ,all views my own. -->
 [![WinForms](https://img.shields.io/badge/-WinForms-fff?&logo=microsoft)](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=net-6.0)
 [![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)](https://nodejs.org/en/)
 [![.NET](https://img.shields.io/badge/-.NET-fff?&logo=.net&logoColor=512BD4)](https://dotnet.microsoft.com/)
-[![React.js](https://img.shields.io/badge/-React.js-fff?&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![React Native](https://img.shields.io/badge/-React_Native-fff?&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
 [![Git](https://img.shields.io/badge/-Git-fff?&logo=git&logoColor=F05032)](https://git-scm.com/)
 [![JavaFX](https://img.shields.io/badge/-JavaFX-fff?&logo=java&logoColor=007396)](https://openjfx.io/)
 [![Spring](https://img.shields.io/badge/-Spring-fff?&logo=spring&logoColor=6DB33F)](https://spring.io/)
@@ -97,7 +93,6 @@ all posts <a href="#">#abdelillahbel</a> ,all views my own. -->
 [![NUnit](https://img.shields.io/badge/-NUnit-fff?&logo=nunit&logoColor=512BD4)](https://nunit.org/)
 [![Android](https://img.shields.io/badge/-Android-fff?&logo=android&logoColor=3DDC84)](https://developer.android.com/)
 [![Flutter](https://img.shields.io/badge/-Flutter-fff?&logo=flutter&logoColor=0089D6)](https://flutter.dev/)
-[![React Native](https://img.shields.io/badge/-React_Native-fff?&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
 [![Xamarin](https://img.shields.io/badge/-Xamarin-fff?&logo=xamarin&logoColor=3498DB)](https://dotnet.microsoft.com/apps/xamarin)
 [![GPG](https://img.shields.io/badge/-GPG-fff?&logo=gnu-privacy-guard&logoColor=0093DD)](https://gnupg.org/)
 [![AWS](https://img.shields.io/badge/-AWS-fff?&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com/)
