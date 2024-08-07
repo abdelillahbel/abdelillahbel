@@ -104,3 +104,15 @@ all posts <a href="#">#abdelillahbel</a> ,all views my own. -->
 [![Microsoft SQL Server](https://img.shields.io/badge/-SQL_Server-fff?&logo=microsoft-sql-server&logoColor=CC2927)](https://www.microsoft.com/en-us/sql-server)
 [![SQLite](https://img.shields.io/badge/-SQLite-fff?&logo=sqlite&logoColor=003B57)](https://www.sqlite.org/)
 
+<div align="center">
+  <span style="margin-right: 20px;">
+    <img src="https://komarev.com/ghpvc/?username=abdelillahbel&label=Profile+views&color=blue&style=flat&abbreviated=0" alt="Profile views"/>
+  </span>
+  <span style="margin-right: 20px;">
+    <img src="https://img.shields.io/github/followers/abdelillahbel?style=flat" alt="GitHub followers"/>
+  </span>
+  <span style="margin-right: 20px;">
+    <img src="https://img.shields.io/github/stars/abdelillahbel?style=flat" alt="GitHub User's stars"/>
+  </span>
+</div>
+
