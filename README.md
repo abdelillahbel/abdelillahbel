@@ -106,6 +106,9 @@ all posts <a href="#">#abdelillahbel</a> ,all views my own. -->
 
 <div align="center">
   <span style="margin-right: 20px;">
+ [GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
+    </span>
+  <span style="margin-right: 20px;">
     <img src="https://komarev.com/ghpvc/?username=1hachem&label=Profile+views&color=blue&style=flat&abbreviated=0" alt="Profile views"/>
   </span>
   <span style="margin-right: 20px;">
