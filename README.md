@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://abdelillahbel.devunion.dev)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/devunion-10ade.appspot.com/o/2000_600px.gif?alt=media&token=7ec530ad-7d3d-410d-86db-95a015aaf067)](https://abdelillahbel.devunion.dev)
 
 [![committers.top badge](https://user-badge.committers.top/algeria/abdelillahbel.svg)](https://user-badge.committers.top/algeria/abdelillahbel)
 
@@ -103,19 +103,3 @@ all posts <a href="#">#abdelillahbel</a> ,all views my own. -->
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=postgresql&logoColor=336791)](https://www.postgresql.org/)
 [![Microsoft SQL Server](https://img.shields.io/badge/-SQL_Server-fff?&logo=microsoft-sql-server&logoColor=CC2927)](https://www.microsoft.com/en-us/sql-server)
 [![SQLite](https://img.shields.io/badge/-SQLite-fff?&logo=sqlite&logoColor=003B57)](https://www.sqlite.org/)
-
-<div align="center">
-  <span style="margin-right: 20px;">
- [GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
-    </span>
-  <span style="margin-right: 20px;">
-    <img src="https://komarev.com/ghpvc/?username=1hachem&label=Profile+views&color=blue&style=flat&abbreviated=0" alt="Profile views"/>
-  </span>
-  <span style="margin-right: 20px;">
-    <img src="https://img.shields.io/github/followers/abdelillahbel?style=flat" alt="GitHub followers"/>
-  </span>
-  <span style="margin-right: 20px;">
-    <img src="https://img.shields.io/github/stars/abdelillahbel?style=flat" alt="GitHub User's stars"/>
-  </span>
-</div>
-
