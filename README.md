@@ -1,6 +1,10 @@
 [![MasterHead](https://i.ibb.co/FsMp5NX/2000-600px.gif)](https://abdelillahbel.devunion.dev)
 
+## We focus on the hard work. Mistakes may happen, but we never leave tasks for another time!
+
 [![committers.top badge](https://user-badge.committers.top/algeria/abdelillahbel.svg)](https://user-badge.committers.top/algeria/abdelillahbel)
+[![Open Source Developer](https://img.shields.io/badge/Open%20Source%20Developer-%E2%9D%A4-red.svg)](https://github.com/abdelillahbel)
+[![Google Developer Students Club Core Team Member](https://img.shields.io/badge/Google%20Developer%20Students%20Club%20National%20School%20Of%20Biotechnology%20Core%20Team%20Member-%E2%9D%A4-blue.svg)](https://gdsc.community.dev/national-school-of-biotechnology)
 
 <!-- # About Me
 * I am a freelancer mobile apps & web developer, software engineer, cybersecurity and Data Analyzer since 2018. I am IT Student in institute speciality Multi-Platform Apps Developer in Algeria. When I'm not busy working on projects for clients, I like to build free open-source or paid software applications and websites as well as help other programmers or teams solve coding issues they may have. My favorite thing to do is create algorithms and complicated codes that can be used to build new exciting things for computers! In my spare time, you'll often find me sipping coffee, watching movies, and enjoying some delicious as I unwind after long coding sessions.
@@ -71,7 +75,6 @@ all posts <a href="#">#abdelillahbel</a> ,all views my own. -->
 [![ASP.NET](https://img.shields.io/badge/-ASP.NET-fff?&logo=.net&logoColor=512BD4)](https://github.com/adblanc?tab=repositories&language=aspnet)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=javascript&logoColor=F7DF1E)](https://github.com/adblanc?tab=repositories&language=javascript)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=typescript&logoColor=007ACC)](https://github.com/adblanc?tab=repositories&language=typescript)
-[![Scala](https://img.shields.io/badge/-Scala-fff?&logo=scala&logoColor=DC322F)](https://github.com/abdelillahbel?tab=repositories&language=scala)
 [![CSS](https://img.shields.io/badge/-CSS-fff?&logo=css3&logoColor=1572B6)](https://github.com/adblanc?tab=repositories&language=css)
 [![Bash](https://img.shields.io/badge/-Bash-fff?&logo=gnu-bash&logoColor=4EAA25)](https://github.com/abdelillahbel?tab=repositories&language=bash)
 
@@ -93,12 +96,8 @@ all posts <a href="#">#abdelillahbel</a> ,all views my own. -->
 [![NUnit](https://img.shields.io/badge/-NUnit-fff?&logo=nunit&logoColor=512BD4)](https://nunit.org/)
 [![Android](https://img.shields.io/badge/-Android-fff?&logo=android&logoColor=3DDC84)](https://developer.android.com/)
 [![Flutter](https://img.shields.io/badge/-Flutter-fff?&logo=flutter&logoColor=0089D6)](https://flutter.dev/)
-[![Xamarin](https://img.shields.io/badge/-Xamarin-fff?&logo=xamarin&logoColor=3498DB)](https://dotnet.microsoft.com/apps/xamarin)
-[![GPG](https://img.shields.io/badge/-GPG-fff?&logo=gnu-privacy-guard&logoColor=0093DD)](https://gnupg.org/)
-[![AWS](https://img.shields.io/badge/-AWS-fff?&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com/)
 [![Azure](https://img.shields.io/badge/-Azure-fff?&logo=microsoft-azure&logoColor=0089D6)](https://azure.microsoft.com/)
 [![Heroku](https://img.shields.io/badge/-Heroku-fff?&logo=heroku&logoColor=430098)](https://www.heroku.com/)
-[![VMware](https://img.shields.io/badge/-VMware-fff?&logo=vmware&logoColor=607078)](https://www.vmware.com/)
 [![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=mysql&logoColor=4479A1)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=postgresql&logoColor=336791)](https://www.postgresql.org/)
 [![Microsoft SQL Server](https://img.shields.io/badge/-SQL_Server-fff?&logo=microsoft-sql-server&logoColor=CC2927)](https://www.microsoft.com/en-us/sql-server)
