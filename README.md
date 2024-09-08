@@ -1,6 +1,6 @@
 [![MasterHead](https://i.ibb.co/FsMp5NX/2000-600px.gif)](https://abdelillahbel.devunion.dev)
 
-## We focus on the hard work. Mistakes may happen, but we never leave tasks for another time!
+<h2 align="center">We focus on the hard work. Mistakes may happen, but we never leave tasks for another time!</h2>
 
 [![committers.top badge](https://user-badge.committers.top/algeria/abdelillahbel.svg)](https://user-badge.committers.top/algeria/abdelillahbel)
 [![Open Source Developer](https://img.shields.io/badge/Open%20Source%20Developer-%E2%9D%A4-red.svg)](https://github.com/abdelillahbel)
@@ -64,8 +64,9 @@ all posts <a href="#">#abdelillahbel</a> ,all views my own. -->
   [![Most Active GitHub User](https://img.shields.io/badge/Most%20Active%20GitHub%20User%20in%20Algeria%20Rank-2nd-white.svg)](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/algeria.md)
   [![GDSC Core Team Member](https://img.shields.io/badge/GDSC%20ENSB%20Core%20Team%20Member-%E2%9D%A4-blue.svg)](https://gdsc.community.dev/national-school-of-biotechnology)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O1PWVI3) -->
-
-# Languages 
+<hr>
+<h3 align="center">Languages:</h3>
+ 
 [![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)](https://github.com/abdelillahbel?tab=repositories&language=c%2b%2b)
 [![Dart](https://img.shields.io/badge/-Dart-fff?&logo=dart&logoColor=00599C)](https://github.com/abdelillahbel?tab=repositories&language=Dart)
 [![Java](https://img.shields.io/badge/-Java-fff?&logo=java&logoColor=007396)](https://github.com/abdelillahbel?tab=repositories&language=java)
@@ -78,8 +79,10 @@ all posts <a href="#">#abdelillahbel</a> ,all views my own. -->
 [![CSS](https://img.shields.io/badge/-CSS-fff?&logo=css3&logoColor=1572B6)](https://github.com/adblanc?tab=repositories&language=css)
 [![Bash](https://img.shields.io/badge/-Bash-fff?&logo=gnu-bash&logoColor=4EAA25)](https://github.com/abdelillahbel?tab=repositories&language=bash)
 
-
-# Technologies 
+<hr>
+<h3 align="center">Technologies:</h3>
+<p align="center">
+ 
 [![Apache](https://img.shields.io/badge/-Apache-fff?&logo=apache)](https://www.apache.org/)
 [![Gradle](https://img.shields.io/badge/-Gradle-fff?&logo=gradle&logoColor=02303A)](https://gradle.org/)
 [![Maven](https://img.shields.io/badge/-Maven-fff?&logo=apache-maven&logoColor=C71A36)](https://maven.apache.org/)
@@ -102,3 +105,4 @@ all posts <a href="#">#abdelillahbel</a> ,all views my own. -->
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=postgresql&logoColor=336791)](https://www.postgresql.org/)
 [![Microsoft SQL Server](https://img.shields.io/badge/-SQL_Server-fff?&logo=microsoft-sql-server&logoColor=CC2927)](https://www.microsoft.com/en-us/sql-server)
 [![SQLite](https://img.shields.io/badge/-SQLite-fff?&logo=sqlite&logoColor=003B57)](https://www.sqlite.org/)
+</p>
