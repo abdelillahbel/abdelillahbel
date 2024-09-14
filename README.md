@@ -47,7 +47,7 @@ I am an advocate of open-source collaboration and believe in empowering new deve
 
 Check out my [GitHub](https://github.com/abdelillahbel) and connect with me on [LinkedIn](https://www.linkedin.com/in/abdelillahbel/).
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/abdelillahbel?style=social)](https://twitter.com/abdelillahbel) [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=abdelillahbel&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/abdelillahbel/) [![GitHub followers](https://img.shields.io/github/followers/abdelillahbel.svg?label=Follow%20@abdelillahbel&style=social)](https://github.com/abdelillahbel/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/abdelillahbell?style=social)](https://twitter.com/abdelillahbell) [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=abdelillahbel&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/abdelillahbel/) [![GitHub followers](https://img.shields.io/github/followers/abdelillahbel.svg?label=Follow%20@abdelillahbel&style=social)](https://github.com/abdelillahbel/)
 
 **Let's code, collaborate, and build amazing things together!**
 
