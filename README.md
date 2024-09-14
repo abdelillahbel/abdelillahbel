@@ -6,6 +6,96 @@
 [![Open Source Developer](https://img.shields.io/badge/Open%20Source%20Developer-%E2%9D%A4-red.svg)](https://github.com/abdelillahbel)
 [![Google Developer Students Club Core Team Member](https://img.shields.io/badge/Google%20Developer%20Students%20Club%20National%20School%20Of%20Biotechnology%20Core%20Team%20Member-%E2%9D%A4-blue.svg)](https://gdsc.community.dev/national-school-of-biotechnology)
 
+
+<p align='center'>
+<a href="https://wakatime.com/abdelillahbel"><img src="https://wakatime.com/badge/user/abdelillahbel.svg"/></a>
+<a href="https://peerlist.io/abdelillahbel"><img src="https://github-readme-badge.peerlist.io/api/abdelillahbel"/></a>
+<a href="https://visitorbadge.io/status?path=abdelillahbel"><img src="https://api.visitorbadge.io/api/visitors?path=abdelillahbel&label=🌍 %20 Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
+<a href="https://github.com/abdelillahbel?tab=repositories"><img src="https://img.shields.io/github/stars/abdelillahbel?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
+</p>
+
+Glad to see you here! I'm [Your Name], a **Software Engineer** passionate about building APIs and **open-source development**. Currently, I'm developing a **Kotlin-based API** for Algeria's states and zip codes, making it easy to integrate into Maven and Gradle projects. I'm also working on other exciting projects that involve event-driven architectures and cloud computing.
+
+### Tech Stack
+
+Here are some of the tools and technologies I work with:
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apache-maven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+
+### Projects
+
+In addition to the Algeria states and zip codes API, here are a few other projects I've worked on:
+- 🌍 [API for Algeria's States & Zip Codes](https://github.com/abdelillahbel/algeria-api) - A Kotlin-based API that provides detailed information about Algeria's states and zip codes.
+- 🛠️ [Kotlin Library for Geographic Data](https://github.com/abdelillahbel/kotlin-geodata-lib) - A lightweight library for geographic and administrative data in Algeria.
+- 🌐 [Open Source Contribution to Kotlin Ecosystem](https://github.com/abdelillahbel/kotlin-contributions) - Contributing to improving Kotlin libraries and APIs.
+
+### Open Source Initiatives
+
+I strongly believe in contributing to open-source projects, and during **Hacktoberfest**, I've helped mentor and guide new contributors. I'm also interested in collaborating with developers on Kotlin-based solutions, APIs, and backend services.
+
+### Let's connect!
+
+Check out my [GitHub](https://github.com/abdelillahbel) and connect with me on [LinkedIn](https://www.linkedin.com/in/abdelillahbel/).
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://twitter.com/yourtwitterhandle) [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=yourlinkedinname&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/abdelillahbel/) [![GitHub followers](https://img.shields.io/github/followers/abdelillahbel.svg?label=Follow%20@abdelillahbel&style=social)](https://github.com/abdelillahbel/)
+
+**Let's code, collaborate, and build amazing things together!**
+
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=abdelillahbel&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelillahbel&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=abdelillahbel&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+  <a href="https://www.buymeacoffee.com/abdelillahbel"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="buymeacoffee" /></a>
+</p>
+
+<br />
+<a href="https://www.google.com/search?q=ABDEL+ILLAH+BELAOUDJ">
+  <table align="left">
+      <tr>
+          <td>
+            😊&nbsp;&nbsp;Learn more about me!
+          </td>
+      </tr>
+  </table>
+</a>
+<a href="https://abdelillah.devunion.dev">
+  <table align="right">
+      <tr>
+          <td>
+            🌐 &nbsp;&nbsp;Explore my website!
+          </td>
+      </tr>
+  </table>
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- # About Me
 * I am a freelancer mobile apps & web developer, software engineer, cybersecurity and Data Analyzer since 2018. I am IT Student in institute speciality Multi-Platform Apps Developer in Algeria. When I'm not busy working on projects for clients, I like to build free open-source or paid software applications and websites as well as help other programmers or teams solve coding issues they may have. My favorite thing to do is create algorithms and complicated codes that can be used to build new exciting things for computers! In my spare time, you'll often find me sipping coffee, watching movies, and enjoying some delicious as I unwind after long coding sessions.
 
