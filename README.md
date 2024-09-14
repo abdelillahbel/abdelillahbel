@@ -8,7 +8,7 @@
 
 
 <p align='center'>
-<a href="https://wakatime.com/abdelillahbel"><img src="https://wakatime.com/badge/user/abdelillahbel.svg"/></a>
+<a href="https://wakatime.com/abdelillahbel"><img src="https://wakatime.com/badge/user/49ad126d-4368-44b3-a584-bcebaf8b6ceb.svg"/></a>
 <a href="https://peerlist.io/abdelillahbel"><img src="https://github-readme-badge.peerlist.io/api/abdelillahbel"/></a>
 <a href="https://visitorbadge.io/status?path=abdelillahbel"><img src="https://api.visitorbadge.io/api/visitors?path=abdelillahbel&label=🌍 %20 Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
 <a href="https://github.com/abdelillahbel?tab=repositories"><img src="https://img.shields.io/github/stars/abdelillahbel?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
