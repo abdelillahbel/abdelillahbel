@@ -1,7 +1,5 @@
 [![MasterHead](https://i.ibb.co/FsMp5NX/2000-600px.gif)](https://abdelillahbel.devunion.dev)
 
-<h2 align="center">We focus on the hard work. Mistakes may happen, but we never leave tasks for another time!</h2>
-
 [![committers.top badge](https://user-badge.committers.top/algeria/abdelillahbel.svg)](https://user-badge.committers.top/algeria/abdelillahbel)
 [![Open Source Developer](https://img.shields.io/badge/Open%20Source%20Developer-%E2%9D%A4-red.svg)](https://github.com/abdelillahbel)
 [![Google Developer Students Club Core Team Member](https://img.shields.io/badge/Google%20Developer%20Students%20Club%20National%20School%20Of%20Biotechnology%20Core%20Team%20Member-%E2%9D%A4-blue.svg)](https://gdsc.community.dev/national-school-of-biotechnology)
