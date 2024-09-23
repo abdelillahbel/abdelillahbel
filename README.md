@@ -92,6 +92,10 @@ Check out my [GitHub](https://github.com/abdelillahbel) and connect with me on [
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/abdelillahbell?style=social)](https://twitter.com/abdelillahbell) [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=abdelillahbel&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/abdelillahbel/) [![GitHub followers](https://img.shields.io/github/followers/abdelillahbel.svg?label=Follow%20@abdelillahbel&style=social)](https://github.com/abdelillahbel/)
 
+## Contact Me
+
+If you have any questions or would like to collaborate, feel free to [contact me via email](mailto:abdelillahbel@engineer.com).
+
 **Let's code, collaborate, and build amazing things together!**
 
 <p align="center">
