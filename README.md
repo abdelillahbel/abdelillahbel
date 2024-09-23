@@ -20,13 +20,13 @@ Glad to see you here! I'm Abdel Illah Belaoudj, a **Software Engineer** focused 
 
 Ravi de vous voir ici ! Je suis Abdel Illah Belaoudj, un **ingénieur logiciel** spécialisé dans la création de **solutions SaaS multiplateformes** et le développement d'**applications modernes pour Android**. Je me spécialise également dans la conception et le développement d'**API haute performance**. Je suis passionné par le **développement open-source**, l'informatique en nuage et les **projets multiplateformes**.
 
-##
+<!-- ##
 
 <div dir="rtl">
 
 سعيد برؤيتك هنا! أنا عبد الإله بلعوج، **مهندس برمجيات** متخصص في بناء **حلول SaaS متعددة المنصات** وتطوير **تطبيقات حديثة لنظام Android**. أتخصص أيضًا في تصميم وتطوير **واجهات برمجة التطبيقات (APIs) عالية الأداء**. أنا شغوف بـ**تطوير المصادر المفتوحة** والحوسبة السحابية و**المشاريع متعددة المنصات**.
 
-</div>
+</div> -->
 
 ##
 
