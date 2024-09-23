@@ -11,7 +11,30 @@
 <a href="https://github.com/abdelillahbel?tab=repositories"><img src="https://img.shields.io/github/stars/abdelillahbel?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
 </p>
 
+## English
+
 Glad to see you here! I'm Abdel Illah Belaoudj, a **Software Engineer** focused on building **SaaS multiplatform solutions** and creating **modern applications for Android**. I also specialize in designing and developing **high-performance APIs**. I'm passionate about **open-source development**, cloud computing, and **cross-platform projects**.
+
+
+## French
+
+Ravi de vous voir ici ! Je suis Abdel Illah Belaoudj, un **ingénieur logiciel** spécialisé dans la création de **solutions SaaS multiplateformes** et le développement d'**applications modernes pour Android**. Je me spécialise également dans la conception et le développement d'**API haute performance**. Je suis passionné par le **développement open-source**, l'informatique en nuage et les **projets multiplateformes**.
+
+## Arabic
+
+<div dir="rtl">
+
+سعيد برؤيتك هنا! أنا عبد الإله بلعوج، **مهندس برمجيات** متخصص في بناء **حلول SaaS متعددة المنصات** وتطوير **تطبيقات حديثة لنظام Android**. أتخصص أيضًا في تصميم وتطوير **واجهات برمجة التطبيقات (APIs) عالية الأداء**. أنا شغوف بـ**تطوير المصادر المفتوحة** والحوسبة السحابية و**المشاريع متعددة المنصات**.
+
+</div>
+
+## Romanian
+
+Mă bucur să te văd aici! Sunt Abdel Illah Belaoudj, un **inginer software** axat pe dezvoltarea de **soluții SaaS multiplatformă** și crearea de **aplicații moderne pentru Android**. De asemenea, mă specializez în proiectarea și dezvoltarea de **API-uri de înaltă performanță**. Sunt pasionat de **dezvoltarea open-source**, cloud computing și **proiectele cross-platform**.
+
+## Lithuanian
+
+Džiaugiuosi matydamas jus čia! Aš esu Abdel Illah Belaoudj, **programinės įrangos inžinierius**, daugiausia dėmesio skiriantis **SaaS daugiafunkcinių platformų sprendimams** ir šiuolaikinių **Android programėlių kūrimui**. Taip pat specializuojuosi **aukštos kokybės API kūrime ir projektavime**. Esu aistringas **atvirojo kodo vystymo**, debesų kompiuterijos ir **daugiaplatformių projektų entuziastas**.
 
 ### Tech Stack
 
