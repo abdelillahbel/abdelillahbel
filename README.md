@@ -36,6 +36,28 @@ Mă bucur să te văd aici! Sunt Abdel Illah Belaoudj, un **inginer software** a
 
 Džiaugiuosi matydamas jus čia! Aš esu Abdel Illah Belaoudj, **programinės įrangos inžinierius**, daugiausia dėmesio skiriantis **SaaS daugiafunkcinių platformų sprendimams** ir šiuolaikinių **Android programėlių kūrimui**. Taip pat specializuojuosi **aukštos kokybės API kūrime ir projektavime**. Esu aistringas **atvirojo kodo vystymo**, debesų kompiuterijos ir **daugiaplatformių projektų entuziastas**.
 
+##
+
+很高兴见到你！我是 Abdel Illah Belaoudj，一名**软件工程师**，专注于构建**SaaS 多平台解决方案**和创建**现代 Android 应用程序**。我还专门设计和开发**高性能 API**。我对**开源开发**、云计算和**跨平台项目**充满热情。
+
+##
+
+¡Encantado de verte aquí! Soy Abdel Illah Belaoudj, un **Ingeniero de Software** enfocado en la creación de **soluciones multiplataforma SaaS** y en el desarrollo de **aplicaciones modernas para Android**. También me especializo en el diseño y desarrollo de **APIs de alto rendimiento**. Soy un apasionado del **desarrollo de código abierto**, la computación en la nube y los **proyectos multiplataforma**.
+
+##
+
+Schön, dich hier zu sehen! Ich bin Abdel Illah Belaoudj, ein **Software-Ingenieur**, der sich auf den Aufbau von **SaaS-Multiplattformlösungen** und die Entwicklung **moderner Android-Anwendungen** konzentriert. Ich bin auch auf die Gestaltung und Entwicklung von **leistungsstarken APIs** spezialisiert. Ich bin begeistert von **Open-Source-Entwicklung**, Cloud-Computing und **plattformentwicklungsübergreifenden Projekten**.
+
+##
+
+お会いできて嬉しいです！私は Abdel Illah Belaoudj です。**ソフトウェアエンジニア**として、**SaaS マルチプラットフォームソリューション**の構築や、**最新の Android アプリケーション**の作成に取り組んでいます。また、**高性能 API** の設計と開発にも精通しています。**オープンソース開発**、クラウドコンピューティング、および**クロスプラットフォームプロジェクト**に情熱を注いでいます。
+
+##
+
+Fico feliz em ver você aqui! Sou Abdel Illah Belaoudj, um **Engenheiro de Software** focado em construir **soluções SaaS multiplataforma** e criar **aplicativos modernos para Android**. Também sou especializado em projetar e desenvolver **APIs de alto desempenho**. Sou apaixonado pelo **desenvolvimento de código aberto**, computação em nuvem e **projetos multiplataforma**.
+
+##
+
 ### Tech Stack
 
 Here are some of the tools and technologies I work with:
