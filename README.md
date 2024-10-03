@@ -16,6 +16,9 @@
 
 Glad to see you here! I'm Abdel Illah Belaoudj, a **Software Engineer** focused on building **SaaS multiplatform solutions** and creating **modern applications for Android**. I also specialize in designing and developing **high-performance APIs**. I'm passionate about **open-source development**, cloud computing, and **cross-platform projects**.
 
+##
+
+Despite having over 78,000 contributions on GitHub, you'll notice I have a limited number of public repositories. The majority of my work is private and focused on company projects, client deliverables, and collaborations. I’m passionate about building impactful software and contributing to complex projects behind the scenes. Feel free to connect or reach out if you'd like to know more about my professional work!
 
 <!-- ##
 
