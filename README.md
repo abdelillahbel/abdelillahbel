@@ -18,7 +18,7 @@ Glad to see you here! I'm Abdel Illah Belaoudj, a **Software Engineer** focused 
 
 ##
 
-Despite having over 78,000 contributions on GitHub, you'll notice I have a limited number of public repositories. The majority of my work is private and focused on company projects, client deliverables, and collaborations. I’m passionate about building impactful software and contributing to complex projects behind the scenes. Feel free to connect or reach out if you'd like to know more about my professional work!
+Despite having over 100,000 contributions on GitHub, you'll notice I have a limited number of public repositories. The majority of my work is private and focused on company projects, client deliverables, and collaborations. I’m passionate about building impactful software and contributing to complex projects behind the scenes. Feel free to connect or reach out if you'd like to know more about my professional work!
 
 <!-- ##
 
@@ -91,8 +91,6 @@ Here are a few of the projects I have been working on:
 I am an advocate of open-source collaboration and believe in empowering new developers to contribute. During **Hacktoberfest**, I have mentored aspiring developers and have contributed to various **Kotlin**, **Java**, and **API**-related open-source projects.
 
 ### Let's connect!
-
-Check out my [GitHub](https://github.com/abdelillahbel) and connect with me on [LinkedIn](https://www.linkedin.com/in/abdelillahbel/).
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/abdelillahbell?style=social)](https://twitter.com/abdelillahbell) [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=abdelillahbel&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/abdelillahbel/) [![GitHub followers](https://img.shields.io/github/followers/abdelillahbel.svg?label=Follow%20@abdelillahbel&style=social)](https://github.com/abdelillahbel/)
 
