@@ -23,14 +23,6 @@ Ravi de vous voir ici ! Je suis Abdel Illah Belaoudj, un **ingénieur logiciel**
 
 ##
 
-<div dir="rtl">
-
-سعيد برؤيتك هنا! أنا عبد الإله بلعوج، **مهندس برمجيات** متخصص في بناء **حلول SaaS متعددة المنصات** وتطوير **تطبيقات حديثة لنظام Android**. أتخصص أيضًا في تصميم وتطوير **واجهات برمجة التطبيقات (APIs) عالية الأداء**. أنا شغوف بـ**تطوير المصادر المفتوحة** والحوسبة السحابية و**المشاريع متعددة المنصات**.
-
-</div>
-
-##
-
 Mă bucur să te văd aici! Sunt Abdel Illah Belaoudj, un **inginer software** axat pe dezvoltarea de **soluții SaaS multiplatformă** și crearea de **aplicații moderne pentru Android**. De asemenea, mă specializez în proiectarea și dezvoltarea de **API-uri de înaltă performanță**. Sunt pasionat de **dezvoltarea open-source**, cloud computing și **proiectele cross-platform**.
 
 ##
