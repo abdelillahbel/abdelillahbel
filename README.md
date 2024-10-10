@@ -1,11 +1,8 @@
 [![MasterHead](https://i.ibb.co/FsMp5NX/2000-600px.gif)](https://abdelillahbel.devunion.dev)
 
-![badge](https://aktive.kerolloz.dev/algeria/abdelillahbel)
-[![Open Source Developer](https://img.shields.io/badge/Open%20Source%20Developer-%E2%9D%A4-red.svg)](https://github.com/abdelillahbel)
-[![Google Developer Students Club Core Team Member](https://img.shields.io/badge/Google%20Developer%20Students%20Club%20National%20School%20Of%20Biotechnology%20Core%20Team%20Member-%E2%9D%A4-blue.svg)](https://gdsc.community.dev/national-school-of-biotechnology)
-
 <p align='center'>
 <a href="https://wakatime.com/abdelillahbel"><img src="https://wakatime.com/badge/user/49ad126d-4368-44b3-a584-bcebaf8b6ceb.svg"/></a>
+<a> <img src="https://aktive.kerolloz.dev/algeria/abdelillahbel" alt="badge"></a>
 <a href="https://peerlist.io/abdelillahbel"><img src="https://github-readme-badge.peerlist.io/api/abdelillahbel"/></a>
 <a href="https://visitorbadge.io/status?path=abdelillahbel"><img src="https://api.visitorbadge.io/api/visitors?path=yourgithubusername&label=🌍 %20 Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
 <a href="https://github.com/abdelillahbel?tab=repositories"><img src="https://img.shields.io/github/stars/abdelillahbel?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
