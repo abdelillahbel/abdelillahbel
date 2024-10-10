@@ -1,7 +1,6 @@
 [![MasterHead](https://i.ibb.co/FsMp5NX/2000-600px.gif)](https://abdelillahbel.devunion.dev)
 
 <p align='center'>
-<a href="https://wakatime.com/abdelillahbel"><img src="https://wakatime.com/badge/user/49ad126d-4368-44b3-a584-bcebaf8b6ceb.svg"/></a>
 <a> <img src="https://aktive.kerolloz.dev/algeria/abdelillahbel" alt="badge"></a>
 <a href="https://peerlist.io/abdelillahbel"><img src="https://github-readme-badge.peerlist.io/api/abdelillahbel"/></a>
 <a href="https://visitorbadge.io/status?path=abdelillahbel"><img src="https://api.visitorbadge.io/api/visitors?path=yourgithubusername&label=🌍 %20 Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
