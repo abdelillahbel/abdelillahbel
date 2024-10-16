@@ -9,8 +9,7 @@
 <a href="https://github.com/abdelillahbel?tab=repositories"><img src="https://img.shields.io/github/stars/abdelillahbel?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
 </p>
 <p align='center'>
-Join us on Discord </br>
-<a href="https://discord.gg/8CxMJxFwGK"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a>
+<a href="https://discord.gg/8CxMJxFwGK"><img src="https://img.shields.io/badge/Join20%us20%on20%Discord-%237289DA.svg?logo=discord&logoColor=black"/></a>
 </p>
 
 
