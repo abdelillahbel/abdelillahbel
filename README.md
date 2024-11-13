@@ -1,9 +1,8 @@
 [![MasterHead](https://i.ibb.co/FsMp5NX/2000-600px.gif)](https://abdelillahbel.devunion.dev)
 
-<p align='center' ><img src="https://aktive.kerolloz.dev/algeria/abdelillahbel?label=&amp;color=black&amp;style=for-the-badge&amp;rnkPrefix=Ranked%20&amp;rnkSuffix=%20In%20Algeria" alt="badge"></p>
 
 <p align='center'>
-<a> <img src="https://aktive.kerolloz.dev/algeria/abdelillahbel" alt="badge"></a>
+<a href="https://user-badge.committers.top/algeria/abdelillahbel"><img src="https://user-badge.committers.top/algeria/abdelillahbel.svg" alt="committers.top badge"></a>
 <a href="https://visitorbadge.io/status?path=abdelillahbel"><img src="https://api.visitorbadge.io/api/visitors?path=yourgithubusername&label=🌍 %20 Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
 <a href="https://github.com/abdelillahbel?tab=repositories"><img src="https://img.shields.io/github/stars/abdelillahbel?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
 </p>
