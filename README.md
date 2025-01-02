@@ -103,7 +103,7 @@
 
 ### Contact Me
 
-  If you have any questions or would like to collaborate, feel free to contact me via email **[abdelillahbel - Discord](https://discord.com/users/1228442912887537918)**.
+  If you have any questions or would like to collaborate, feel free to contact me via Discord **[abdelillahbel - Discord](https://discord.com/users/1228442912887537918)**.
 
   <p align="center">
     <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=abdelillahbel&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&hide=issues,contribs">
