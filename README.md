@@ -11,7 +11,7 @@
     </h1>
 
    <a href="https://github.com/abdelillahbel">
-  <img src="https://img.shields.io/badge/Abdel_Illah_Belaoudj-1st_Rank_GitHub_Contributor_in_Algeria_&_Beyond-important?style=for-the-badge&logo=github&logoColor=white" alt="Abdel Illah Belaoudj - 1st Rank GitHub Contributor in Algeria & Beyond">
+  <img src="https://img.shields.io/badge/Abdel_Illah-Github_Universal_Rank_Top_0.5%25-important?style=for-the-badge&logo=github&logoColor=white" alt="Abdel Illah Belaoudj - 1st Rank GitHub Contributor in Algeria & Beyond">
 </a>
 
   </div>
