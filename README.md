@@ -9,6 +9,7 @@
 
 [![GitHub Rank](https://img.shields.io/badge/Abdel_Illah-Top_0.5%25_GitHub_Universal-important?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdelillahbel)
 
+<a href="https://deepwiki.com/abdelillahbel/abdelillahbel"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
 [![Committers Top](https://user-badge.committers.top/algeria/abdelillahbel.svg)](https://user-badge.committers.top/algeria/abdelillahbel)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=abdelillahbel&label=🌍%20Visitors&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=abdelillahbel)
 
