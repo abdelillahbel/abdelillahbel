@@ -1,4 +1,5 @@
 #
+![Event Achievement](https://img.shields.io/badge/World%20Skills%20Algeria%20🇩🇿-🏆%201st%20Place-FFD700?style=for-the-badge&labelColor=white&logoColor=FFD700)
 
 ## Featured Projects
 
@@ -33,3 +34,4 @@ _Abdel Illah Belaoudj is a Software Engineer passionate about crafting SaaS solu
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=abdelillahbel&label=🌍%20Visitors&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=abdelillahbel)
 <a href="https://deepwiki.com/abdelillahbel/abdelillahbel"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
 [![Committers Top](https://user-badge.committers.top/algeria/abdelillahbel.svg)](https://user-badge.committers.top/algeria/abdelillahbel)
+
