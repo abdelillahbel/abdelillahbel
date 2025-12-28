@@ -1,37 +1,21 @@
-#
-![Event Achievement](https://img.shields.io/badge/World%20Skills%20Algeria%20🇩🇿-🏆%201st%20Place-FFD700?style=for-the-badge&labelColor=white&logoColor=FFD700)
+<div align="center">
 
-## Featured Projects
+# Abdel Illah B.
 
-- **Naftal Khadamat**  
-  API, cPanel & Mobile App built with modern technologies.  
-  [GitHub](https://github.com/abdelillahbel/naftal_khadamat_app_release)
+**Software Engineer • SaaS Architect • Self-Employed**
 
-- **SkillSnap Android**  
-  Portfolio app built with Jetpack Compose.  
-  [GitHub](https://github.com/abdelillahbel/SkillSnapAndroid)
+[![World Skills Algeria 🇩🇿](https://img.shields.io/badge/World%20Skills%20Algeria-🏆%201st%20Place-FFD700?style=flat-square&labelColor=1a1a1a)](https://github.com/abdelillahbel)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=abdelillahbel&label=Visitors&countColor=%23263759&style=flat-square)](https://visitorbadge.io/status?path=abdelillahbel)
 
-- **SkillSnap Web**  
-  Web platform for portfolio management.  
-  [GitHub](https://github.com/abdelillahbel/SkillSnapWeb)
+Specializing in scalable SaaS solutions, Android applications, and high-performance APIs.  
+Building production-ready systems with modern cloud infrastructure.
 
-- **WiniWalk Android**  
-  Walking app with reward system.  
-  [GitHub](https://github.com/abdelillahbel/WiniWalkAndroid)
-
-- **VendVite Express Android**  
-  Delivery app for vendor coordination.  
-  [GitHub](https://github.com/abdelillahbel/VendViteExpressAndroid)
+**[Portfolio Website](#)** • **[Email](mailto:be_abdelillah@engineer.com)**
 
 ---
 
-## About Me
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelillahbel&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/abdelillahbel)
 
-_Abdel Illah Belaoudj is a Software Engineer passionate about crafting SaaS solutions, Android apps, and high-performance APIs. Skilled in Kotlin, Java, TypeScript, GraphQL, and Node.js, he develops scalable systems using Next.js, MySQL, and MongoDB. Leveraging cloud platforms like Google Cloud, Azure, DigitalOcean, and Vercel, along with tools such as Docker and Git, he delivers innovative and robust technology solutions._
+*Available for freelance projects and consulting*
 
-<noscript><a href="https://liberapay.com/abdelillahbel/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=abdelillahbel&label=🌍%20Visitors&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=abdelillahbel)
-<a href="https://deepwiki.com/abdelillahbel/abdelillahbel"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
-[![Committers Top](https://user-badge.committers.top/algeria/abdelillahbel.svg)](https://user-badge.committers.top/algeria/abdelillahbel)
-
+</div>
