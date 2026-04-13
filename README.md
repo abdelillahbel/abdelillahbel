@@ -14,8 +14,6 @@ Building production-ready systems with modern cloud infrastructure.
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelillahbel&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/abdelillahbel)
-
 *Just started my journey at nimoxis.com*
 
 </div>
