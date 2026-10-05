@@ -14,6 +14,6 @@ Building production-ready systems with modern cloud infrastructure.
 
 ---
 
-*Just started my journey at **[Nimoxis](https://www.nimoxis.com)***
+*Just started my journey at **[Nimoxis](https://www.sahlaschool.com)***
 
 </div>
